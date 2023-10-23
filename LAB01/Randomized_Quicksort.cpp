@@ -1,7 +1,4 @@
-//@ Author : JEEL FALDU
-//@Date : 09 - 07 - 2023
 
-// Randomized quick sort 
 
 #include<bits/stdc++.h>
 using namespace std;
