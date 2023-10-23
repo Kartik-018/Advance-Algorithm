@@ -1,11 +1,4 @@
-/*
-* @Author: Jeel faldu
-*/
 
-/*
-finite automata based string matching algorithm.
-It create the table and checks for the matching string in the text on its own.
-*/
 
 #include <bits/stdc++.h>
 using namespace std;
