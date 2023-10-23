@@ -1,6 +1,4 @@
-/*
-* @Author: JEEL
-*/
+
 
 #include <bits/stdc++.h>
 using namespace std;
